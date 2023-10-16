@@ -5,7 +5,7 @@ import os
 from tkinter import messagebox
 from student import Student
 from train import Train
-from face_recoginition1 import Face_Recoginition
+from face_recoginition import Face_Recoginition
 from attendance1 import Attendance
 from developers import Developer
 from about import Help
